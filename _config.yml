@@ -10,6 +10,12 @@ excerpt_link: More
 fancybox: true
 
 # Sidebar
+#sidebar: bottom
+#widgets:
+#- recent_posts
+#- tagcloud 
+#- archive
+#- related_posts
 
 # Miscellaneous
 google_analytics: UA-115542258-1 
