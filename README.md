@@ -9,7 +9,7 @@ A light theme based on **Codeland** which is based on **Landscape** for Hexo.
 ### Install
 
 ``` bash
-$ git clone https://github.com/xing5/hexo-theme-hexo-theme-malachi.git themes/hexo-theme-malachi
+$ git clone https://github.com/johnhopkins/hexo-theme-hexo-theme-malachi.git themes/hexo-theme-malachi
 ```
 
 **Landscape requires Hexo 2.4 and above.**
