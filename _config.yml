@@ -10,7 +10,7 @@ excerpt_link: More
 fancybox: true
 
 # Sidebar
-#sidebar: bottom
+#sidebar: bottom 
 #widgets:
 #- recent_posts
 #- tagcloud 
