@@ -1,4 +1,4 @@
-# Codeland
+# Malachi 
 
 A light theme based on **Codeland** which is based on **Landscape** for Hexo.
 
@@ -9,19 +9,19 @@ A light theme based on **Codeland** which is based on **Landscape** for Hexo.
 ### Install
 
 ``` bash
-$ git clone https://github.com/xing5/hexo-theme-malachi.git themes/malachi
+$ git clone https://github.com/xing5/hexo-theme-hexo-theme-malachi.git themes/hexo-theme-malachi
 ```
 
 **Landscape requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `malachi`.
+Modify `theme` setting in `_config.yml` to `hexo-theme-malachi`.
 
 ### Update
 
 ``` bash
-cd themes/malachi
+cd themes/hexo-theme-malachi
 git pull
 ```
 
