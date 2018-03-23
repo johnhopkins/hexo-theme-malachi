@@ -24,13 +24,3 @@ Modify `theme` setting in `_config.yml` to `hexo-theme-malachi`.
 cd themes/hexo-theme-malachi
 git pull
 ```
-
-## Feature
-Add `toc: true` in the front matter to enable table of content for a post.
-
-``` yml
-title: Using Google Maps API to Implement a Two-dimensional Circle Heatmap like Tableau
-comments: true
-date: 2014-10-13 20:24:00
-toc: true
-```
