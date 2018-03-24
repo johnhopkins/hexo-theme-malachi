@@ -2,7 +2,7 @@
 
 A light theme based on **Codeland** which is based on **Landscape** for Hexo.
 
-- [Preview](http://www.johnhopkins.co.uk/archives)
+- [Preview](http://www.johnhopkins.co.uk/)
 
 ## Installation
 
